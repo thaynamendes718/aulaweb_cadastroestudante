@@ -1,0 +1,16 @@
+:root {
+    color: #19352a;
+    background: #f4f7f5;
+    font-family: system-ui, sans-serif;
+}
+body {
+    width: min(68rem, calc(100% - 2rem));
+    margin: 2rem auto;
+}
+img {
+    width: 10rem;
+}
+a,
+button {
+    color: #116530;
+}
