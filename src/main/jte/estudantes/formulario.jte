@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="pt-BR">
-<head><meta charset="UTF-8"><title>Novo estudante</title></head>
+<head>
+    <link rel="stylesheet" href="/css/formulario.css">
+    <meta charset="UTF-8"><title>Novo estudante</title></head>
 <body>
     <h1>Novo estudante</h1>
     <form method="post" action="/estudantes/confirmar">
@@ -32,8 +34,11 @@
 
         <datalist id="cidades">
             <option value="Cajazeiras"></option>
-            <option value="Sousa"></option>
+            <option value="Bom Jesus"></option>
             <option value="São José de Piranhas"></option>
+            <option value="São João do Rio do Peixe"></option>
+            <option value="Santa Helena"></option>
+            <option value="Bonito de Santa Fé"></option>
         </datalist>
 
         <fieldset>

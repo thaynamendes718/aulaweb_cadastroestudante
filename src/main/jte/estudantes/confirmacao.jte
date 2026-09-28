@@ -2,7 +2,9 @@
 @param com.example.cadastroestudantesifpb.Estudante estudante
 <!doctype html>
 <html lang="pt-BR">
-<head><meta charset="UTF-8"><title>Dados recebidos</title></head>
+<head>
+    <link rel="stylesheet" href="/css/confirmaçao.css">
+    <meta charset="UTF-8"><title>Dados recebidos</title></head>
 <body>
     <h1>Dados recebidos</h1>
     <p><strong>Nome:</strong> ${estudante.nome()}</p>

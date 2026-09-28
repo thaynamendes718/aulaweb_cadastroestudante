@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 40px;
+    font-family: Arial, sans-serif;
+    background-color: #fff0f6;
+    color: #4a2635;
+}
+
+h1 {
+    max-width: 850px;
+    margin: 0 auto 30px auto;
+    padding: 25px;
+    text-align: center;
+    font-size: 30px;
+    color: #c2185b;
+    background-color: white;
+    border-radius: 18px;
+    border: 1px solid #f8c9dc;
+    box-shadow: 0 5px 20px rgba(194, 24, 91, 0.12);
+}
+
+p {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 16px 22px;
+    background-color: white;
+    border-bottom: 1px solid #f4d5e0;
+    font-size: 16px;
+    line-height: 1.5;
+}
