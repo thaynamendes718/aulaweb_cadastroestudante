@@ -5,7 +5,7 @@
     <meta charset="UTF-8"><title>Novo estudante</title></head>
 <body>
     <h1>Novo estudante</h1>
-    <form method="post" action="/estudantes/confirmar">
+    <form method="post" action="/estudantes">
 
         <label for="nome">Nome</label>
         <input type="text" id="nome" name="nome">
